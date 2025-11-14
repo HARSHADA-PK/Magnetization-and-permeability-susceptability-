@@ -108,6 +108,7 @@ Ferrite cores are a classic example of utilizing high magnetic permeability to e
 
 <img width="911" height="452" alt="image" src="https://github.com/user-attachments/assets/08559831-24d6-4539-991f-c31cfba65634" />
 
+
 # 5.CONCLUSION:
 
 The trio of Magnetization (M), Permeability (u), and Susceptibility (Xm) provides the essential framework for understanding how any material interacts with a magnetic field.
