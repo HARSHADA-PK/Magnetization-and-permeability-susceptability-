@@ -105,6 +105,7 @@ Ferrite cores are a classic example of utilizing high magnetic permeability to e
 
 <img width="958" height="117" alt="image" src="https://github.com/user-attachments/assets/9611ab75-cdfb-4d92-80cc-1cc93c807088" />
 
+
 <img width="911" height="452" alt="image" src="https://github.com/user-attachments/assets/08559831-24d6-4539-991f-c31cfba65634" />
 
 # 5.CONCLUSION:
