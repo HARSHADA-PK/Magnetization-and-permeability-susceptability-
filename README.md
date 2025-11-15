@@ -38,6 +38,8 @@ SOLUTION:
 
 # 3.MAGNETIC SUSCEPTABILITY (Xm):
 
+<img width="696" height="375" alt="image" src="https://github.com/user-attachments/assets/09954ace-5069-4889-80ed-93c8c0c14ed2" />
+
 Magnetic susceptibility is a dimensionless proportionality constant that indicates the degree to which a material becomes magnetized in response to an applied magnetic field.
 
 DEFINITION: The ratio of the magnetization (M) induced in the material to the magnetic field intensity (H) that caused it.
@@ -74,6 +76,9 @@ Result: Susceptibility surveys create a map of Xm variations, which is a faster 
 <img width="966" height="586" alt="image" src="https://github.com/user-attachments/assets/4ca2fd26-111d-4460-bfbe-b92028fc88f8" />
 
 # 4.MAGNETIC PERMEABILITY:
+
+<img width="702" height="377" alt="image" src="https://github.com/user-attachments/assets/4145731b-d736-4cc6-853d-781561cf3089" />
+
 
 Magnetic permeability is a property of a material that represents its ability to support the formation of a magnetic field within itself.23 It is the measure of the total magnetic field (Magnetic Flux Density, B) inside a material when it is exposed to an external field
 
